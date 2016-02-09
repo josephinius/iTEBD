@@ -1,0 +1,8 @@
+1			model: Ising (0) / Heisenberg (1)
+0.000E-00		initial: initial field (e.g. 0.000E-00)
+2.000E-00		final: final field (e.g. 2.000E+00)
+1.000E-01		step: field increment (e.g. 1.000E-01)
+1.000E-03		imaginary time step (e.g. 5.000E-04)
+16			D: maximal dimension (e.g. 64)
+10000000		N: maximal # of iterations (e.g. 10000000)
+1.000E-32		epsilon: values considered to be zero 
